@@ -9,7 +9,7 @@
     --heart-color: rgb(252, 8, 231);
   }
 
-  @media (max-width: 994px) {
+  @media (max-width: 1050px) {
     .envelope-wrapper {
         width: 200px;
         height: 150px;
